@@ -13,3 +13,9 @@ Warning: this code is kind of janky and just shows the idea. What is meant by
 janky is the code might not be thread-safe and there may be memory leaks.
 
 TODO: Show how to build an Audio Unit app extension.
+
+## Building
+
+Build by doing
+
+    sh ./build_script.sh
